@@ -1,7 +1,7 @@
 ### Exercise 1
 Faire un print de
-Le valeur 1 fois 1 est 1
-Le valeur 2 fois 2 est 2
+La valeur 1 fois 1 est 1
+La valeur 2 fois 2 est 2
 ... jusqu'à 12
 
 
