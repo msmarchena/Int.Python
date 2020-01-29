@@ -1,5 +1,5 @@
 ### Exercise 1
-fair un print de
+Faire un print de
 Le valeur 1 fois 1 est 1
 Le valeur 2 fois 2 est 2
 ... jusqu'à 12
