@@ -8,17 +8,17 @@
 # Ex. 1 :
 
 for i in range(20):
-    print(f"Le valeur est : {i}")
+    print(f"La valeur est : {i}")
 
 # Ex. 2 :
 
 for i in range(1, 20, 2):
-    print(f"Le valeur est : {i}")
+    print(f"La valeur est : {i}")
 
 # Ex. 3 :
 
 for i in range(1, 13):
-    print(f"Le valeur {i} fois {i} est {i*i}")
+    print(f"La valeur {i} fois {i} est {i*i}")
 
 # Ex. 4 :
 
